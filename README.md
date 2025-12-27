@@ -4,6 +4,8 @@
 
 This is a port of [my web based calculator](https://calc.asis.blue/) for RR AS
 
+Special thanks to Snowfall for doing the majority of this port!
+
 Download the script, and install it to blender like any other addon by going to:
 Edit > Preferences > Install > Locate the .py > Enable it by clicking the checkbox!
 
