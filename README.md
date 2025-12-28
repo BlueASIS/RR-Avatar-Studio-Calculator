@@ -17,5 +17,9 @@ It will appear in the sidebar of your 3D view in blender!
 
 ### [Download!](https://github.com/BlueASIS/RR-Avatar-Studio-Calculator/releases/download/release/UGC-Calculator.py)
 
-<img width="180" height="180" alt="blender" src="https://github.com/user-attachments/assets/bc13c2ba-faf3-4c9a-a65d-3ce924260922" />
+
+
+
+
+
 
