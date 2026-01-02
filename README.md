@@ -1,4 +1,4 @@
-### [Download!](https://github.com/BlueASIS/RR-Avatar-Studio-Calculator/releases/download/release/UGC-Calculator.py)
+# [Download!](https://github.com/BlueASIS/RR-Avatar-Studio-Calculator/releases/download/release/UGC-Calculator.py)
 
 ## Rec Room Avatar Studio Calculator
 
@@ -15,7 +15,7 @@ It will appear in the sidebar of your 3D view in blender!
 
 <img width="398" height="756" alt="blender_QqBZuvuDyY" src="https://github.com/user-attachments/assets/ebfdd572-fcc8-4430-a115-6636f3ab560a" />
 
-### [Download!](https://github.com/BlueASIS/RR-Avatar-Studio-Calculator/releases/download/release/UGC-Calculator.py)
+# [Download!](https://github.com/BlueASIS/RR-Avatar-Studio-Calculator/releases/download/release/UGC-Calculator.py)
 
 
 
